@@ -1,2 +1,4 @@
 # this is from github
-print("Hello from Github")
+> myString <- "Hello from Github"
+> print ( myString)
+
